@@ -1,1 +1,1 @@
-https://jupyter.org/try-jupyter/lab/index.html
+https://jupyter.org/try-jupyter/notebooks/?path=Untitled1.ipynb
